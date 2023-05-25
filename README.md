@@ -1,4 +1,4 @@
-# raspberrypireading
+# MPU6050 + RPi
 A code to view gyro reading from a MPU6050 sensor(attached to Raspberry Pi) on MATLAB installed on another computer.
 
 (Made in Bachelor's 4th year, 03/2018. Due to not having programming related course on the last semester, I went to a professor to assign me and a friend something to work on. He assigned us to help 2 PhD students with their thesis of MEMS actuated satellite. The testing phase required to measure if the aimed actuation were made, using MPU6050 and Raspberry Pi.) 
